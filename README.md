@@ -1,5 +1,5 @@
 <div align="center">
-     <img width="200px" src="LogoTriple.png" alt="qr"/>
+     <img width="200px" src="triple.png" alt="qr"/>
      
 <h1>THE TRIPLE PROGRAMMING LANGUAGE</h1>
 
