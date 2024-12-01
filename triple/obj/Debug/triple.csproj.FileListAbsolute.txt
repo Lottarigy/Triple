@@ -1,0 +1,6 @@
+D:\PLanguages\Csharp\Projects\VS\Triple\triple\triple\obj\Debug\triple.csproj.CoreCompileInputs.cache
+D:\PLanguages\Csharp\Projects\VS\Triple\triple\triple\bin\Debug\triple.exe.config
+D:\PLanguages\Csharp\Projects\VS\Triple\triple\triple\bin\Debug\triple.exe
+D:\PLanguages\Csharp\Projects\VS\Triple\triple\triple\bin\Debug\triple.pdb
+D:\PLanguages\Csharp\Projects\VS\Triple\triple\triple\obj\Debug\triple.exe
+D:\PLanguages\Csharp\Projects\VS\Triple\triple\triple\obj\Debug\triple.pdb
