@@ -10,8 +10,8 @@
 > [!IMPORTANT]
 > Before installing the language interpreter, install .Net framework 4.7.2+
 ## README.md
-- [Русский](readme/README.ru.md)
-- [Беларуская](readme/README.by.md)
+- [Русский](README.ru.md)
+- [Беларуская](README.by.md)
 ## Hello World:
 
 ```haskell
