@@ -3,19 +3,21 @@
      
 <h1>THE TRIPLE PROGRAMMING LANGUAGE</h1>
 
-> Императивный, процедурный интерпретируемый язык программирования.
+> Imperative, procedural interpreted programming language.
 </div>
 
 
 > [!IMPORTANT]
-> Прежде чем установить интерпретатор языка, установите .Net framework 4.7.2+
-
+> Before installing the language interpreter, install .Net framework 4.7.2+
+## README.md
+- [Русский](readme/README.ru.md)
+- [Беларуская](readme/README.by.md)
 ## Hello World:
 
 ```haskell
-: Поток() -> число =>
-     >>Вывод("Hello World!")
-     вернуть 0
+: Stream() -> num =>
+     >>Output("Hello World!")
+     return 0
 ```
 
 
