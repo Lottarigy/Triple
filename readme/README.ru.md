@@ -10,7 +10,7 @@
 > [!IMPORTANT]
 > Перед установкой языкового интерпретатора установите .Net framework 4.7.2+
 ## README.md
-- [English](readme/README.md)
+- [English](README.md)
 - [Беларуская](readme/README.by.md)
 ## Hello World:
 
