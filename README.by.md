@@ -1,7 +1,8 @@
+<h1 align="center">THE</h1>
 <div align="center">
-     <img width="150px" src="Group 2.png" alt="qr"/>
+     <img width="150px" src="triplelang.png" alt="qr"/>
      
-<h1>THE TRIPLE PROGRAMMING LANGUAGE</h1>
+<h1>PROGRAMMING LANGUAGE</h1>
 
 > Імператыўная, працэдурная інтэрпрэтаваная мова праграмавання.
 </div>
