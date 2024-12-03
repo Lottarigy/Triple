@@ -9,7 +9,7 @@
 
 
 > [!IMPORTANT]
-> Before installing the language interpreter, install .Net framework 4.7.2+
+> Before installing the language interpreter, install .Net framework 4.8+
 ## README.md
 - [Русский](README.ru.md)
 - [Беларуская](README.by.md)
