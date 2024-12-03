@@ -9,7 +9,7 @@
 
 
 > [!IMPORTANT]
-> Перад усталёўкай моўнага інтэрпрэтатара ўсталюеце .Net framework 4.7.2+
+> Перад усталёўкай моўнага інтэрпрэтатара ўсталюеце .Net framework 4.8+
 ## README.md
 - [English](README.md)
 - [Русский](README.ru.md)
