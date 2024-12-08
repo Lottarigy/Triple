@@ -150,8 +150,8 @@ Assertion blocks are also supported:
     if a > 0 =>
         | a = a + 1
         | if a == b => b = b + 1
-        | if b == c => >>Output(“Done”) ]
-    else => >>Output(“Unexpected arithmetic”)
+        | if b == c => >>Output("Done") ]
+    else => >>Output("Unexpected arithmetic")
 
     return 0
 ```
@@ -202,7 +202,7 @@ loop `while`
 It won't output anything in the console.
 
 
-loop ``do-while''
+loop `do-while`
 
 ```haskell
 : Stream() -> num =>
@@ -255,7 +255,7 @@ Functions are subroutines and complex data types. They have their own local scop
 
 ```haskell
 : hello() -> stg =>
-    | let result -> stg = “Hi”
+    | let result -> stg = "Hi"
     | return result ]
 ```  
 
@@ -269,7 +269,7 @@ To utilize the potential of functions, they must be called. If we call the `Hell
 
 ```haskell
 : Hello() -> stg =>
-    | let result -> stg = “Hi”
+    | let result -> stg = "Hi"
     | return result ]
 
 : Stream() -> num =>
@@ -283,7 +283,7 @@ The function is called via `>>`. Since the function returned a result with a `st
 
 ```haskell
 : Hello() -> stg =>
-    | let result -> stg = “Hi”
+    | let result -> stg = "Hi"
     | return result ]
 
 : Stream() -> num =>
@@ -364,7 +364,7 @@ Example:
 
 ```haskell
 :: structure Shape
-     : Square() -> void => >>Output(“This is a square”)
+     : Square() -> void => >>Output("This is a square")
      bound
 ```
 
@@ -378,9 +378,9 @@ Structures can be called using the `<<` symbol:
      return 0
 
 :: structure Shape
-     : Square() -> void => >>Output(“This is a square”)
-     : Circle() -> void => >>Output(“This is a circle”)
-     : Triangle() -> void => >>Output(“This is a triangle”)
+     : Square() -> void => >>Output("This is a square")
+     : Circle() -> void => >>Output("This is a circle")
+     : Triangle() -> void => >>Output("This is a triangle")
      bound
 ```
 
