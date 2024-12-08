@@ -132,7 +132,7 @@ Example:
 : Stream() -> num =>
     if 1 > 2 => >>Output(1)
     elif 1 == 1 => >>Output(2)
-    else => >> >>Output(3)
+    else => >>Output(3)
     return 0
 ```
 
