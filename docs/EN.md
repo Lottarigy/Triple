@@ -1,4 +1,4 @@
-# Documentation 
+# DOCUMENTATION
 # Polylingualism
 Perhaps it's worth starting with polylingualism, because it is what decides how exactly you want to write code on triple. 
 Polylingualism allows you to write code with localization. In other words, the triple vocabulary supports several human languages. 
