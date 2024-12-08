@@ -384,7 +384,7 @@ Structures can be called using the `<<` symbol:
      bound
 ```
 
-Console: `This is a circle'
+Console: `This is a circle`
 
 Structures are needed to structure code, to break it into blocks. 
 
