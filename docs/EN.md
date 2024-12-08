@@ -254,7 +254,7 @@ Here the loop is needed to output all the elements of the set to the console. It
 Functions are subroutines and complex data types. They have their own local scope, in other words, their data is available only within this scope, that's why you get a subroutine. Functions are defined by the first character: `:`
 
 ```haskell
-: hello() -> stg =>
+: Hello() -> stg =>
     | let result -> stg = "Hi"
     | return result ]
 ```  
