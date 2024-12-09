@@ -304,7 +304,7 @@ Since the `Stream` function is also a function, the rules apply to it as well. A
 ```haskell
 : Stream() -> bool =>
      >>Output(0)
-     return true 
+     return tr
 ```
 Console: `0`
 `the program exited with the code: true`.
