@@ -9,16 +9,19 @@ English localization :
 : Stream() -> num =>
      return 0
 ```
+
 Belarusian localization:
 ```haskell
 : Струмень() -> лік =>
     вярнуць 0
 ```
+
 Russian localization:
 ```haskell
 : Поток() -> число =>
     вернуть 0
 ```
+
 The language constructs will be discussed in the following sections.
 
 # Input/Output
