@@ -302,7 +302,7 @@ Here are a few rules when declaring functions:
 * Functions must return something;
 * Nested functions do not exist;
 
-Since the `Stream` function is also a function, the rules apply to it as well. A stream can return any data type and expression:
+Since the `Stream` function is also a function, the rules apply to it as well. A stream can return any data type (except void) and expression:
 
 ```haskell
 : Stream() -> bool =>
@@ -361,12 +361,12 @@ Console: `120`
 
 # Structures
 Structs are a shell for functions and are also global statements, meaning that structures can be declared at the function level. 
-Structures cannot be nested and cannot be contained in a stream. Structures are defined by the first `::` character and the word `structure'
+Structures cannot be nested and cannot be contained in a stream. Structures are defined by the first `::` character and the word `struct'
 
 Example:
 
 ```haskell
-:: structure Shape
+:: struct Shape
      : Square() -> void => >>Output("This is a square")
      bound
 ```
@@ -380,7 +380,7 @@ Structures can be called using the `<<` symbol:
      <<Shape >>Circle
      return 0
 
-:: structure Shape
+:: struct Shape
      : Square() -> void => >>Output("This is a square")
      : Circle() -> void => >>Output("This is a circle")
      : Triangle() -> void => >>Output("This is a triangle")
