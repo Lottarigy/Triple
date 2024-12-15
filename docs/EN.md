@@ -124,6 +124,20 @@ Operations work only with numeric data types and string data types in case of co
     return 0
 ```
 
+# Comparison operators
+Comparison operators are needed to work with some branching or looping condition, which we will look at in the following sections. Here are the comparison operators:
+
+* Equal to `==`
+* Not equal to `!=`
+* Greater than `>`
+* Less than `<`
+* Greater than or equal to `>=`
+* Less than or equal to `<=`
+
+It is worth noting the difference between the assignment operator `=` and the equality operator `==`. Assignment is needed to replace an expression with a variable, and comparison is only for comparing values ​​in some condition.
+
+Comparison operators only work with numeric data types.
+
 # Branching
 In the language, branching is defined as follows: `if <condition> => <action>
  if <condition> => <action>
