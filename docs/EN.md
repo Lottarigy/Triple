@@ -375,7 +375,7 @@ Console: `120`
 
 # Structures
 Structs are a shell for functions and are also global statements, meaning that structures can be declared at the function level. 
-Structures cannot be nested and cannot be contained in a stream. Structures are defined by the first `::` character and the word `struct'
+Structures cannot be nested and cannot be contained in a stream. Structures are defined by the first `::` character and the word `struct`
 
 Example:
 
