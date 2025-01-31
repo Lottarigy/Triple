@@ -15,7 +15,7 @@
 - [Беларуская](README.by.md)
 ## Hello World:
 
-```haskell
+```rust
 #import IO
 
 st Program ::
