@@ -15,13 +15,10 @@
 - [Беларуская](README.by.md)
 ## Hello World:
 
-```rust
-#import IO
-
-st Program ::
-   fn Main : Void -> Int16
-      IO :: Out : "Hello World!\n"
-      return 0
+```haskell
+: Stream() -> num =>
+     >>Output("Hello World!")
+     return 0
 ```
 
 
