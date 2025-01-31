@@ -16,9 +16,12 @@
 ## Hello World:
 
 ```haskell
-: Stream() -> num =>
-     >>Output("Hello World!")
-     return 0
+#import IO
+
+st Program ::
+   fn Main : Void -> Int16
+      IO :: Out : "Hello World!\n"
+      return 0
 ```
 
 
