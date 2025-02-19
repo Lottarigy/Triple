@@ -141,7 +141,7 @@ Comparison operators only work with numeric data types.
 # Branching
 In the language, branching is defined as follows: `if <condition> => <action>
  if <condition> => <action>
- otherwise => <action>``
+ otherwise => <action>`
 
 Example:
 
